@@ -1,5 +1,5 @@
 # Obvious user experience errors to avoid: A brief heuristic evaluation of a job application website
-#### auther: Corey(Yalin) Chen
+#### author: Corey(Yalin) Chen
 #### corey.about@gmail.com
 Note: This article only represents one evolution of a product, rather than the ability of persons behind the product, for the educational purpose.  
   
