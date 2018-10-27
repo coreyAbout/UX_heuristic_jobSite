@@ -48,4 +48,9 @@ On the opposite, indeed did a very good job.
   
 <img src="./pictures/UX_jobSite5.png" width="600">
   
-That’s all you need for the job application and it takes seconds to complete!
+That’s all you need for the job application and it takes seconds to complete!  
+  
+Quantitative evaluation can be done. but I do not think it is needed in this case. It will be very easy to tell the time spend to finished a job application through indeed is much shorter than the other one.
+  
+  
+#### Thank you and please leave some comments if you have any!
